@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f89a7520-26fe-400d-9326-af1efa2d7fd4" name="Default" comment="" />
+    <ignored path="CosmosJump.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403115220185" ignored="false" />
+    <file path="/KListener.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402779753149" ignored="false" />
+    <file path="/fragment.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402660380324" ignored="false" />
+    <file path="/Jumper.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403113169410" ignored="false" />
+    <file path="/BlinkThread.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403010073946" ignored="false" />
+    <file path="/PlayController.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403113609762" ignored="false" />
+    <file path="/GameBuilder.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402654298064" ignored="false" />
+    <file path="/PlayModel.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403114720185" ignored="false" />
+    <file path="/Stone.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403113880490" ignored="false" />
+    <file path="/PlayScene.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402855326727" ignored="false" />
+    <file path="/GameController.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402673963490" ignored="false" />
+    <file path="/View.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403023227398" ignored="false" />
+    <file path="/Model.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402672033848" ignored="false" />
+    <file path="/Controller.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403018138757" ignored="false" />
+    <file path="/Game.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403031764565" ignored="false" />
+    <file path="/MAdapter.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402694745399" ignored="false" />
+    <file path="/MListener.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402872040342" ignored="false" />
+    <file path="/Scene.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402780306135" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Mondelbrot/src/Window.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402946409297" ignored="false" />
+    <file path="/Window.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402946330338" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Mondelbrot/src/Mondelbrot.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403043229418" ignored="false" />
+    <file path="/Mondelbrot.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403043145192" ignored="false" />
+    <file path="/MenuScene.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402891324602" ignored="false" />
+    <file path="/MenuModel.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402900827147" ignored="false" />
+    <file path="/MenuItem.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402901107298" ignored="false" />
+    <file path="/MenuController.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403022479923" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Mondelbrot/src/Matrix.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402857399294" ignored="false" />
+    <file path="/Matrix.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402857373984" ignored="false" />
+    <file path="/MenuJumper.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402930565347" ignored="false" />
+    <file path="/Item.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403021620837" ignored="false" />
+    <file path="/GameOverScene.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1402949861618" ignored="false" />
+    <file path="/GameOverController.java" changelist="f89a7520-26fe-400d-9326-af1efa2d7fd4" time="1403017084913" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CosmosJump" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PlayModel.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/model/PlayModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="138" column="24" selection-start="4124" selection-end="4124" vertical-scroll-proportion="0.14124294">
+              <folding>
+                <element signature="method#isJumperLanded#0;class#PlayModel#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jumper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Jumper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="38" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stone.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Stone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="33" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="structure" />
+      </map>
+    </option>
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/controller/sceneController/BlinkThread.java" />
+        <option value="$PROJECT_DIR$/src/controller/sceneController/GameOverController.java" />
+        <option value="$PROJECT_DIR$/src/controller/sceneController/Controller.java" />
+        <option value="$PROJECT_DIR$/src/model/MenuModel.java" />
+        <option value="$PROJECT_DIR$/src/model/Item.java" />
+        <option value="$PROJECT_DIR$/src/resources/currentScore" />
+        <option value="$PROJECT_DIR$/src/view/View.java" />
+        <option value="$PROJECT_DIR$/src/controller/sceneController/MenuController.java" />
+        <option value="$PROJECT_DIR$/src/view/MenuScene.java" />
+        <option value="$PROJECT_DIR$/src/controller/Game.java" />
+        <option value="$PROJECT_DIR$/src/view/PlayScene.java" />
+        <option value="$PROJECT_DIR$/src/resources/records" />
+        <option value="$PROJECT_DIR$/src/model/Jumper.java" />
+        <option value="$PROJECT_DIR$/src/controller/sceneController/PlayController.java" />
+        <option value="$PROJECT_DIR$/src/model/Stone.java" />
+        <option value="$PROJECT_DIR$/src/model/PlayModel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CosmosJump" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Documents\GitHub\CosmosJump\src\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration default="false" name="PlayController" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="controller.sceneController.PlayController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CosmosJump" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameController" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="controller.GameController" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CosmosJump" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Game" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Game" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CosmosJump" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.PlayController" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GameController" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Game" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Game" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GameController" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PlayController" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f89a7520-26fe-400d-9326-af1efa2d7fd4" name="Default" comment="" />
+      <created>1402514956929</created>
+      <updated>1402514956929</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Проверка дееспособности">
+      <created>1402578709197</created>
+      <updated>1402578709197</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Теперь движение происходит &quot;пока нажата кнопка&quot;, а не когда нажимается.&#10;Пружины пока странне)">
+      <created>1402587012968</created>
+      <updated>1402587012968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Теперь движение происходит &quot;пока нажата кнопка&quot;, а не когда нажимается.&#10;Пружины пока странне)">
+      <created>1402679012003</created>
+      <updated>1402679012003</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Новая структура. Посмори, откомментируй)&#10;Почему она хороша: &#10;В зависимости от сцены нам понадоятся разные контроллеры. Например, для меню нужно обрабатывать щелчки мыши.&#10;P.S. Со статиками сам запутался -_- &#10;">
+      <created>1402679689807</created>
+      <updated>1402679689807</updated>
+    </task>
+    <task id="LOCAL-00005" summary="last">
+      <created>1402680706389</created>
+      <updated>1402680706389</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Надо делать камешки, фишечки и остальные цены">
+      <created>1402700013643</created>
+      <updated>1402700013643</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Надо делать камешки, фишечки и остальные цены&#10;П.С. Засунул класс в класс. понравилось.&#10;Твоя очередь кодить))">
+      <created>1402702045760</created>
+      <updated>1402702045760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Меню, летающие камни">
+      <created>1402856398583</created>
+      <updated>1402856398583</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Крутое меню. попробуй потыкать на Джаспера - он спрячется">
+      <created>1402898682436</created>
+      <updated>1402898682436</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Тудун">
+      <created>1402901422620</created>
+      <updated>1402901422620</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Тудун">
+      <created>1402928439486</created>
+      <updated>1402928439486</updated>
+    </task>
+    <task id="LOCAL-00012" summary="размеры в view">
+      <created>1402931292881</created>
+      <updated>1402931292881</updated>
+    </task>
+    <task id="LOCAL-00013" summary="тада">
+      <created>1402950468552</created>
+      <updated>1402950468552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="тада">
+      <created>1402957550646</created>
+      <updated>1402957550646</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Гемовер событие Должено генерировать сообщение, которое меняет сцену. Либо не ждать потоки. других вариантов  не вижу.">
+      <created>1402959051977</created>
+      <updated>1402959051977</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Структура контроллеров прекрасна">
+      <created>1403017005625</created>
+      <updated>1403017005625</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Структура контроллеров прекрасна">
+      <created>1403017110929</created>
+      <updated>1403017110929</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Keep calm, menu!">
+      <created>1403022198741</created>
+      <updated>1403022198741</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Records onclick">
+      <created>1403022523182</created>
+      <updated>1403022523182</updated>
+    </task>
+    <task id="LOCAL-00020" summary="hard">
+      <created>1403031413924</created>
+      <updated>1403031413924</updated>
+    </task>
+    <task id="LOCAL-00021" summary="hard">
+      <created>1403032047444</created>
+      <updated>1403032047444</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;src/model/Jumper.java&#10;&#9;src/resources/records&#10;">
+      <created>1403032369010</created>
+      <updated>1403032369010</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;src/model/Jumper.java&#10;&#9;src/resources/records&#10;">
+      <created>1403032655250</created>
+      <updated>1403032655250</updated>
+    </task>
+    <task id="LOCAL-00024" summary="something">
+      <created>1403040969771</created>
+      <updated>1403040969771</updated>
+    </task>
+    <task id="LOCAL-00025" summary="something">
+      <created>1403115234384</created>
+      <updated>1403115234384</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33105803" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67064846" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="something" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Проверка дееспособности" />
+    <MESSAGE value="Теперь движение происходит &quot;пока нажата кнопка&quot;, а не когда нажимается.&#10;Пружины пока странне)" />
+    <MESSAGE value="Новая структура. Посмори, откомментируй)&#10;Почему она хороша: &#10;В зависимости от сцены нам понадоятся разные контроллеры. Например, для меню нужно обрабатывать щелчки мыши.&#10;P.S. Со статиками сам запутался -_- &#10;" />
+    <MESSAGE value="last" />
+    <MESSAGE value="Надо делать камешки, фишечки и остальные цены" />
+    <MESSAGE value="Надо делать камешки, фишечки и остальные цены&#10;П.С. Засунул класс в класс. понравилось.&#10;Твоя очередь кодить))" />
+    <MESSAGE value="Меню, летающие камни" />
+    <MESSAGE value="Крутое меню. попробуй потыкать на Джаспера - он спрячется" />
+    <MESSAGE value="Тудун" />
+    <MESSAGE value="размеры в view" />
+    <MESSAGE value="тада" />
+    <MESSAGE value="Гемовер событие Должено генерировать сообщение, которое меняет сцену. Либо не ждать потоки. других вариантов  не вижу." />
+    <MESSAGE value="Структура контроллеров прекрасна" />
+    <MESSAGE value="Ceep calm, menu!" />
+    <MESSAGE value="Keep calm, menu!" />
+    <MESSAGE value="Records onclick" />
+    <MESSAGE value="hard" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;src/model/Jumper.java&#10;&#9;src/resources/records&#10;" />
+    <MESSAGE value="something" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/model/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="30" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.046321526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/records">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.41689372" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/Cosmos Jump w-t back MINI.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/turbo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/MenuJumper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="118" selection-end="118" vertical-scroll-proportion="-0.046321526">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="224" selection-end="237" vertical-scroll-proportion="0.27792916">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="254" selection-end="254" vertical-scroll-proportion="0.09264305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Stone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="33" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_40/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="299" column="0" selection-start="11657" selection-end="11657" vertical-scroll-proportion="0.33242506">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/PlayScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="58" selection-start="3145" selection-end="3145" vertical-scroll-proportion="1.5749319">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Jumper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="38" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/sceneController/PlayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="18" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.5613079">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pause#0;class#PlayController#0" expanded="false" />
+            <element signature="method#startAfter#0;class#PlayController#0" expanded="false" />
+            <element signature="e#2937#2943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/banan.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/banan2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/PlayModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="24" selection-start="4124" selection-end="4124" vertical-scroll-proportion="0.14124294">
+          <folding>
+            <element signature="method#isJumperLanded#0;class#PlayModel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
